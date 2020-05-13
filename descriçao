@@ -1,0 +1,12 @@
+Escreva um programa que leia o número de funcionário, o número de horas trabalhadas, ou o valor que recebe por hora e o cálculo do salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+
+Entrada
+O arquivo de entrada contém 2 números inteiros e 1 número com duas casas decimais, representando o número, a quantidade de horas trabalhadas e o valor que o funcionário recebe por hora trabalhada, respectivamente.
+
+Saída
+Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da taxa. No caso do salário, também deve haver um espaço em branco após o $.
+
+Exemplos de entrada     Exemplos de saída
+25                         NÚMERO = 25  
+100                      ALÁRIO = U $ 550,00
+5,50
