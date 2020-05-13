@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/ * execute este programa usando o pausador do console ou adicione seu próprio getch, sistema ("pausa") ou loop de entrada * /
+// # define PESOA 2
+// # define PESOB 3
+// # define PESOC 5
+int main (int argc, char * argv []) {
+	int A, horas;
+	duplo B;	
+	scanf ("% d", & A);
+	scanf ("% lf", & horas);
+	scanf ("% d", & B);
+	printf ("NÚMERO =% d \ n", A);
+	if (horas> 0) {
+		printf ("SALÁRIO = U $% 0.2lf \ n", B * horas);	
+	}outro{
+		printf ("ERRO!");
+}
+	
+	retornar 0;
+}
